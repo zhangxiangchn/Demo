@@ -66,7 +66,7 @@ def classify(testVec, weights):
         return 0
 
 if __name__ == "__main__":
-    filename = r'E:\machinelearninginaction\Ch05\testSet.txt'
+    filename = r'E:\machinelearninginaction\Ch05\testSet.txt'   # 大家可以填入自己需要测试的数据集的路径，格式不对的话可以修改loadData函数
     alpha = 0.01
     maxnum = 500
     dataMat, labels = loadData(filename)
