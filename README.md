@@ -8,3 +8,5 @@ elman_RNN: elman神经网络的实现Demo
 DecisionTree_for_ID3：ID3方法的决策树基本算法的实现
 
 KNN：K近邻算法的基本实现
+
+Logistic regression：逻辑回归算法的基本实现
