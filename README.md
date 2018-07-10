@@ -15,6 +15,6 @@ Regression Tree: 回归树的实现，以及后剪枝处理
 
 Model Tree: 模型树的实现，即叶节点不再是所有值的均值，替代的是回归方程
 
-LinearRegression: 线性回归实现，包括局部加权线性回归的实现
+LinearRegression: 基于正则方程的线性回归实现，包括局部加权线性回归的实现
 
 KMeans： K均值聚类的实现，以及解决局部收敛问题的2分法实现
