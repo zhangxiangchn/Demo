@@ -10,3 +10,7 @@ DecisionTree_for_ID3：ID3方法的决策树基本算法的实现
 KNN：K近邻算法的基本实现
 
 Logistic regression：逻辑回归算法的基本实现
+
+Regression Tree:回归树的实现，以及后剪枝处理
+
+Model Tree: 模型树的实现，即叶节点不再是所有值的均值，替代的是回归方程
