@@ -5,6 +5,10 @@ elman_RNN: elman神经网络的实现Demo
 
 viterbi: 隐马尔可夫模型中，预测算法中维特比算法的实现
 
+hmm.py: 一阶隐马尔可夫模型的CLASS实现
+
+test_for_hmm.py: class hmm 的测试代码
+
 # 《机器学习实战》各种算法的基本实现（基于numpy等基础库）：
 
 DecisionTree_for_ID3：ID3方法的决策树基本算法的实现
